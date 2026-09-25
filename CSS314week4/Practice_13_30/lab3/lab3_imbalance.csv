@@ -1,0 +1,10 @@
+thread_id,total_iterations_computed
+0,49426500
+1,48498133
+2,56623741
+3,48568505
+
+Max,56623741
+Min,48498133
+Avg,50779219.75
+Imbalance_(Max-Min)/Avg,0.1600183705067662
